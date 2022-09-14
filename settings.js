@@ -27,7 +27,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "Blackpink bot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ Blackpink ×፝֟͜×" //nama kalian
+global.ownername= "Hey You! Plasse No [Spam] ⚠️ Bot Tidak Merespon Jika kamu Spam 🗿 Mohon kerjasama nya SC ORI : amelcns8@gmail.com" //nama kalian
 global.myweb ="https://api.blackpink.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/Blackpink" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/Blackpink" //bebas
